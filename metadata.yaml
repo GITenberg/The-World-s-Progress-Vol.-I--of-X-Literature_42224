@@ -1,0 +1,29 @@
+_repo: The-World-s-Progress-Vol.-I--of-X-Literature_42224
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Delphian Society
+    aliases:
+    - Society, Delphian
+    - Society, The Delphian
+    gutenberg_agent_id: '41583'
+    url: http://www.gutenberg.org/2009/agents/41583
+description: ''
+gutenberg_issued: '2013-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42224'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World history'
+- !lcc 'D'
+- !lcsh 'Civilization -- History'
+title: "The World's Progress, Vol. 01 (of 10)\r\nWith Illustrative texts from Masterpieces\
+  \ of Egyptian, Hebrew, Greek, Latin, Modern European and American Literature"
+url: http://www.gutenberg.org/ebooks/42224
