@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41583'
     url: http://www.gutenberg.org/2009/agents/41583
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42224#The-World-s-Progress-Vol.-I--of-X-Literature
 gutenberg_issued: '2013-02-27'
 gutenberg_type: Text
 identifiers:
